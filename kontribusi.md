@@ -6,8 +6,9 @@
 
 | Anggota | Peran / bagian yang dikerjakan | Tautan pull request |
 | --- | --- | --- |
-| Revalia Putri (101032330225) | Regretion & Clustering | [ISI] |
-| Tarannia Raisha Putri (101032300231) | Classification & Clustering | [ISI] |
+| [ISI nama + NIM] | [ISI] | [ISI] |
+| [ISI nama + NIM] | [ISI] | [ISI] |
+| [ISI nama + NIM] | [ISI, jika ada] | [ISI] |
 
 Ketentuan soal: setiap anggota fork repo kelompok, bekerja di fork sendiri, dan membuka pull request; semua PR harus di-merge dan fork disinkronkan sebelum 24 Nov 2026 23:59.
 
@@ -40,5 +41,6 @@ Ketentuan soal: setiap anggota fork repo kelompok, bekerja di fork sendiri, dan 
 
 Kami menyatakan bahwa kami memahami seluruh pekerjaan kelompok dan siap mereproduksinya pada ujian oral.
 
-- [ ] [Revalia Putri (101032330225)]
-- [ ] [Tarannia Raisha Putri (101032300231)]
+- [ ] [ISI nama anggota 1]
+- [ ] [ISI nama anggota 2]
+- [ ] [ISI nama anggota 3, jika ada]
