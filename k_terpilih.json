@@ -1,0 +1,1 @@
+{"k": 4, "metode": "kmeans", "catatan": "K terbesar dengan stabilitas bootstrap ARI>=0.8 (K=4: 0.80; K=5: 0.64)"}
